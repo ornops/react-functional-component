@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-monsterrolodex/static/css/main.7d64b55f.css",
-    "main.js": "/react-monsterrolodex/static/js/main.c9ad37ae.js",
-    "static/js/453.5d3a426d.chunk.js": "/react-monsterrolodex/static/js/453.5d3a426d.chunk.js",
-    "index.html": "/react-monsterrolodex/index.html",
-    "main.7d64b55f.css.map": "/react-monsterrolodex/static/css/main.7d64b55f.css.map",
-    "main.c9ad37ae.js.map": "/react-monsterrolodex/static/js/main.c9ad37ae.js.map",
-    "453.5d3a426d.chunk.js.map": "/react-monsterrolodex/static/js/453.5d3a426d.chunk.js.map"
+    "main.css": "/react-functional-component/static/css/main.7d64b55f.css",
+    "main.js": "/react-functional-component/static/js/main.d1d89716.js",
+    "static/js/453.5d3a426d.chunk.js": "/react-functional-component/static/js/453.5d3a426d.chunk.js",
+    "index.html": "/react-functional-component/index.html",
+    "main.7d64b55f.css.map": "/react-functional-component/static/css/main.7d64b55f.css.map",
+    "main.d1d89716.js.map": "/react-functional-component/static/js/main.d1d89716.js.map",
+    "453.5d3a426d.chunk.js.map": "/react-functional-component/static/js/453.5d3a426d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7d64b55f.css",
-    "static/js/main.c9ad37ae.js"
+    "static/js/main.d1d89716.js"
   ]
 }
